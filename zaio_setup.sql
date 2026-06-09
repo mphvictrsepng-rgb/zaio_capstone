@@ -12,7 +12,7 @@ CREATE DATABASE zaio_management_db;
 -- Q3: Initialize a Git repository
 -- git init
 
--- Q4: .gitignore content (save this as .gitignore in your project folder)
+-- Q4: .gitignore content (i wrote the answer here, even thooug i have a separate file for it)
 -- .env
 -- *.log
 

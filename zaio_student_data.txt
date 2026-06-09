@@ -1,0 +1,50 @@
+Bheki Decker,AI Engineering,2026
+Nia Allen,UI/UX Design,2026
+Bontle Botha,Full Stack Web Dev,2026
+Ava Hunt,Data Science,2026
+Tebogo Anderson,Cloud Computing,2026
+Fatima Wilson,AI Engineering,2026
+Mia Davis,AI Engineering,2026
+Sarah Mhlongo,Cybersecurity,2026
+Sipho Mbeki,AI Engineering,2026
+Refilwe O'Connor,Cloud Computing,2026
+Nia Taylor,Cybersecurity,2026
+Aisha King,UI/UX Design,2026
+Lindiwe Wilson,Cybersecurity,2026
+Dudu Gonzalez,Data Science,2026
+Gugu Khan,Cloud Computing,2026
+Liam Ali,Cloud Computing,2026
+Lucas Hunt,Full Stack Web Dev,2026
+Ava Decker,Cybersecurity,2026
+Sibusiso Mbeki,Cybersecurity,2026
+Kevin Patel,UI/UX Design,2026
+Mateo Gonzalez,Data Science,2026
+Mandla Martinez,AI Engineering,2026
+Kagiso Harris,Data Science,2026
+Khanya Davis,Cybersecurity,2026
+William Miller,Full Stack Web Dev,2026
+Sarah Ndlovu,Cybersecurity,2026
+Emma Martin,Full Stack Web Dev,2026
+Khanya Dlamini,Cybersecurity,2026
+Gugu Mhlongo,UI/UX Design,2026
+Dudu Martinez,Cloud Computing,2026
+Mateo Moore,Cybersecurity,2026
+William Taylor,AI Engineering,2026
+Isabella Young,UI/UX Design,2026
+Isabella Anderson,AI Engineering,2026
+Liam Wilson,Data Science,2026
+Karabo Makhanya,Full Stack Web Dev,2026
+Gugu Ngcobo,Data Science,2026
+Khanya Hunt,Cloud Computing,2026
+Lucas Davis,Cybersecurity,2026
+Kevin Nkosi,UI/UX Design,2026
+Sipho Young,Cybersecurity,2026
+Lerato Harris,AI Engineering,2026
+Kagiso Khan,Cybersecurity,2026
+Nokuthula Taylor,Cybersecurity,2026
+Thabo Patel,Data Science,2026
+Bontle Harris,AI Engineering,2026
+William Ali,Cybersecurity,2026
+Lerato King,UI/UX Design,2026
+Isabella Dlamini,Cloud Computing,2026
+Nokuthula Harris,AI Engineering,2026
