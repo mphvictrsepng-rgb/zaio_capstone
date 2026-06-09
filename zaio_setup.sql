@@ -79,7 +79,7 @@ INSERT INTO tracks (track_name) VALUES
     ('Full Stack Web Dev');
 
 -- Q17: Bulk load 50 students from zaio_student_data.txt
-\copy zaio_students(full_name, track_id, cohort_year) FROM 'zaio_student_data.txt' WITH (FORMAT csv, DELIMITER ',');
+--\Copy zaio_students(full_name, track_id, cohort_year) FROM 'zaio_student_data.txt' WITH (FORMAT csv, DELIMITER ',');
 
 -- Q18: Bulk update cohort_year for a specific track
 UPDATE zaio_students
@@ -117,8 +117,8 @@ SELECT * FROM zaio_students
 ORDER BY full_name DESC;
 
 -- Q25: Assignments with deadlines in the future
-SELECT * FROM assignments
-WHERE deadline > NOW();
+--SELECT * FROM assignments
+--WHERE deadline > NOW();
 
 -- Q26: Count of students per track.
 SELECT t.track_name, COUNT(zs.student_id) AS total_students
