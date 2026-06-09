@@ -112,7 +112,7 @@ WHERE c.course_code NOT IN (
     SELECT DISTINCT course_code FROM enrollments
 );
 
--- Q24: All students sorted by name descending
+-- Q24: All students sorted by name descending.
 SELECT * FROM zaio_students
 ORDER BY full_name DESC;
 
@@ -120,18 +120,18 @@ ORDER BY full_name DESC;
 SELECT * FROM assignments
 WHERE deadline > NOW();
 
--- Q26: Count of students per track
+-- Q26: Count of students per track.
 SELECT t.track_name, COUNT(zs.student_id) AS total_students
 FROM tracks t
 JOIN zaio_students zs ON t.track_id = zs.track_id
 GROUP BY t.track_name;
 
--- Q27: Average final grade for a specific course
+-- Q27: Average final grade for a specific course.
 SELECT AVG(final_grade) AS average_grade
 FROM enrollments
 WHERE course_code = 'CS101';
 
--- Q28: Join students with their course names
+-- Q28: Join students with their course names.
 SELECT zs.full_name, c.course_name
 FROM zaio_students zs
 JOIN enrollments e ON zs.student_id = e.student_id
@@ -143,8 +143,3 @@ FROM tracks t
 LEFT JOIN zaio_students zs ON t.track_id = zs.track_id
 GROUP BY t.track_name
 HAVING COUNT(zs.student_id) = 0;
-
--- Q30: Stage, commit, and push to GitHub (run in terminal, not SQL)
--- git add zaio_setup.sql
--- git commit -m "Add completed capstone SQL script"
--- git push origin main
